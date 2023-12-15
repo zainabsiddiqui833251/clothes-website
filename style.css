@@ -1,0 +1,160 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-image: url(./images/pngtree-abstract-gradient-pattern-navy-blue-background-image_632934.jpg);
+    background-size: cover;
+    font-size: large;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+.navbar {
+    width: 100%;
+    background-color: white;
+    overflow: auto;
+}
+
+.navbar a {
+    float: right;
+    text-align: center;
+    padding: 12px;
+    color: rgb(28, 28, 105);
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.navbar a:hover {
+    background-color:  rgb(28, 28, 105);
+    color:aliceblue
+}
+.award {
+    width: 30%;
+    height: 30%;
+}
+.seconddiv {
+    float: right;
+    margin: 5% 10% 5% 5%;
+    width: 40%;
+}
+
+.head {
+    margin: 5% 0% 5% 5%;
+    float: left;
+    width: 40%;
+}
+
+.main {
+    margin: 1rem;
+    text-align: center;
+}
+.jpeg{
+    width: 25em;
+    height: 30em;
+
+}
+.logo{
+    width: 50px;
+}
+.checked {
+    color: orange;
+}
+
+.code {
+    margin: 10% 30% 10% 30%;
+    text-align: center;
+    line-height: 1.4em;
+    background-color: rgba(206, 220, 228, 0.705);
+    padding: 2%;
+}
+
+.forgot {
+    margin: 10% 30% 10% 30%;
+    text-align: center;
+    line-height: 1.4em;
+    background-color: rgba(206, 220, 228, 0.705);
+    padding: 2%;
+}
+
+button {
+    background-color: rgb(3, 3, 3);
+    color: aliceblue;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.signup {
+    margin: 10% 30% 10% 30%;
+    text-align: center;
+    line-height: 1.4em;
+    background-color: rgba(206, 220, 228, 0.705);
+    padding: 2%;
+}
+
+.ONE {
+    text-decoration: underline;
+}
+
+.login {
+    margin: 10% 30% 10% 30%;
+    text-align: center;
+    line-height: 1.8em;
+    background-color: rgba(206, 220, 228, 0.705);
+    padding: 2%;
+}
+
+.TWO {
+    text-decoration: underline;
+
+}
+h1{
+    text-decoration: underline;
+}
+.img {
+    margin: 10% 30% 10% 30%;
+    border: 5px solid grey;
+
+}
+
+.about {
+    text-decoration: underline;
+    color: rgb(0, 204, 255);
+
+}
+
+.divabout {
+    text-align: center;
+}
+
+.us {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    color: aqua;
+}
+.nav2 {
+    width: 100%;
+    background-color: rgb(255, 72, 0);
+    overflow: auto;
+}
+
+.nav2 a {
+    float: left;
+    text-align: center;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 4%;
+}
+
+.nav2 a:hover {
+    background-color: rgb(252, 250, 251);
+    color: black;
+}
+a{
+    color: aliceblue;
+}
